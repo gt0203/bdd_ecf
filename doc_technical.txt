@@ -1,0 +1,77 @@
+
+[ENGLISH]
+
+CLIENT / VEHICLE:
+
+- We have 3 tables:
+
+- Vehicle
+- Contract
+- Customer
+
+Informations:
+
+Vehicle (MANY) <-----> (ONE) Customer
+Customer (ONE) <-----> (MANY) Contract
+
+Description of the tables:
+
+Vehicle Colones:
+
+*customer_ID
+*Brand
+*Model
+*Color
+
+Customer Colones:
+
+*firstname
+*lastname
+
+contract colones:
+
+*customer_ID
+*kilometer
+*duration
+*price
+
+--------------------------------------------------------
+
+[FRANCAIS]
+
+CLIENT / VEHICULE :
+
+- Nous avons 3 tables :
+
+- Vehicle
+- Contract
+- Customer
+
+Informations :
+
+Vehicle (MANY) <-----> (ONE) Customer 
+Customer (ONE) <-----> (MANY) Contract 
+
+Description des tables :
+
+Vehicle colones : 
+
+*customer_ID
+*Brand
+*Model
+*Color
+
+Customer colones :
+
+*firstname
+*lastname
+
+contract colones :
+
+*customer_ID
+*kilometer
+*duration
+*price
+
+
+

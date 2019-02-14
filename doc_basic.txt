@@ -1,0 +1,43 @@
+
+[ENGLISH]
+
+CLIENT / VEHICLE:
+
+- A customer may have more than one vehicle
+
+- A vehicle can have 1 customer
+
+CLIENT / CONTRACT:
+
+- A customer may have more than one contract
+
+- A contract can have 1 client
+
+CONTRACT / VEHICLE:
+
+- A contract may have 1 vehicle
+
+- A vehicle may have 1 contract
+
+--------------------------------------------------------
+
+[FRANCAIS]
+
+CLIENT / VEHICULE :
+
+- Un client peut avoir plusieur véhicule
+
+- Un véhicule peut avoir 1 client
+
+CLIENT / CONTRAT :
+
+- Un client peut avoir plusieur contrats
+
+- Un contrat peut avoir 1 client
+
+CONTRAT / VEHICULE :
+
+- Un contrat peu avoir 1 véhicule
+
+- Un véhicule peu avoir 1 contrat
+
